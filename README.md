@@ -39,3 +39,7 @@ Design alternatives
  -Many things we can make the chamber out of: styrofoam, metal, wood, etc.
  
  -Many ways to turn eggs inside the chamber: Automation, notify farmer, roll eggs with mechanism, etc.
+ 
+ Overview of process/ how we chose solution
+ 
+ -
