@@ -1,6 +1,6 @@
 Engineeringprojects
 ===================
-Background/client information
+2. Background/client information
  
  -Andrew Houssney
  
@@ -14,7 +14,7 @@ Background/client information
  
  -Wants to have an automated system so he doesn't need to check incubator every day.
 
-Design Requirements
+3. Design Requirements
  
  -The final product will be an egg incubator that holds 100-300 eggs at a time
  
@@ -30,7 +30,7 @@ Design Requirements
  
  -Farmer will be able to see and control temperature and humidiity by remote or phone app
 
-Design alternatives
+4. Design alternatives
  
  -We were deciding between fixing the incubation issue, freezer and fridge issue, and greenhouse issue
  
