@@ -6,5 +6,4 @@ There was no code necessary for this motor.
 We made two arms connected to the motor. The two arms connected makes a movement with the trner that pulls the eggs back and forth.
 The wooden structure that the motor pulls provides room for 70 eggs. 
 Wooden structure for turning eggs:
-Measurements- 
-Diagram
+
