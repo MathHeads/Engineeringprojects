@@ -1,5 +1,5 @@
 9. Budget/ Bill
-
+<ul>
 <li>
 
 -Styrofoam Cooler: $22.74
@@ -10,3 +10,4 @@
 -Level Shift: $2.95
 
 </li>
+</ul>
