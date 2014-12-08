@@ -1,4 +1,5 @@
 9. Budget/ Bill
+
 <li>-Styrofoam Cooler: $22.74
 -Heat Lamp: $19.54
 -Transformer/Power Source: $6.40
