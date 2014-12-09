@@ -1,18 +1,17 @@
 Engineeringprojects
 ===================
-2. Background/client information
+<b>2. Background/client information</b>
  
- -Andrew Houssney
+<ul>
+
+ <li>Andrew Houssney</li>
+ <li>Owns Jacob Springs Farm</li>
+ <li>Needs an efficiet incubator to hatch chicken eggs (100-300 eggs at a time)</li>
+ <li>Wants to be notified of the temperature and humidity of the incubator through an app or remote</li>
+ <li>Wants to be able to turn on/off the heat lamp in the incubator using his phone or a remote</li>
+ <li>Wants to have an automated system so he doesn't need to check incubator every day.</li>
  
- -Owns Jacob Springs Farm
- 
- -Needs an efficiet incubator to hatch chicken eggs (100-300 eggs at a time)
- 
- -Wants to be notified of the temperature and humidity of the incubator through an app or remote
- 
- -Wants to be able to turn on/off the heat lamp in the incubator using his phone or a remote
- 
- -Wants to have an automated system so he doesn't need to check incubator every day.
+</ul>
 
 3. Design Requirements
  
