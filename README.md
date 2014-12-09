@@ -35,7 +35,7 @@ Engineeringprojects
  <li>Might use a phone app or a remote for communication/notification</li>
  <li>Many things we can make the chamber out of: styrofoam, metal, wood, etc.</li>
  <li>Many ways to turn eggs inside the chamber: Automation, notify farmer, roll eggs with mechanism, etc.</li>
+ 
+ </ul>
 
-![Solidworks](https://github.com/MathHeads/Engineeringprojects/blob/master/Screen%20Shot%202014-12-08%20at%201.36.52%20PM.png)
-
-</ul>
+![solidworks] (https://github.com/MathHeads/Engineeringprojects/blob/master/Screen%20Shot%202014-12-08%20at%201.36.52%20PM.png)
