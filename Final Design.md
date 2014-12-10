@@ -7,6 +7,7 @@ For our project we developed an egg incubator. The eggs sit inbetween wooden rod
 
 <li>b)Pictures</li>
   
+<b>Code</b>
 ![Code](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code1.png)
 
 ![Code2](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code2.png)
@@ -14,5 +15,3 @@ For our project we developed an egg incubator. The eggs sit inbetween wooden rod
 ![Code3] (https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code3.png)
   
 <li>c)Manufacturing Process</li>
-  
-![Motor](https://github.com/MathHeads/Engineeringprojects/blob/master/Screen%20Shot%202014-12-08%20at%201.36.52%20PM.png)
