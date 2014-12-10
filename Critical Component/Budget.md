@@ -4,6 +4,7 @@
 
 <li> Styrofoam Cooler: $22.74</li>
 <li>Heat Lamp: $19.54</li>
+<li>Bulb: $5.00</li>
 <li>Transformer/Power Source: $6.40</li>
 <li>Motor Driver: $14.95</li>
 <li>Arduino Pro Mini: $9.95</li>
@@ -13,6 +14,8 @@
 <li>Voltage Regulator(3): $3.00</li>
 <li>Capacitors(6): $1.00</li>
 <li>Wire: $3.00</li>
-<li><b>Total: $106.38</b></li>
+<li>Wooden rods for turner: $5.00</li>
+<li>Motor: $20.00</li>
+<li><b>Total: $136.38</b></li>
 
 </ul>
