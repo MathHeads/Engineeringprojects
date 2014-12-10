@@ -3,9 +3,10 @@ Prototype
 
 <b>Construction Process</b>
 
+<b>Materials</b>
+
 <ul>
 
-<b>Materials</b>
 <li>Insulated box for incubator structure</li>
 <li>wood for egg turner bars and platform</li>
 <li>arduino</li>
