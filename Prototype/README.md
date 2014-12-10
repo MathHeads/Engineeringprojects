@@ -3,7 +3,7 @@ Prototype
 
 **Construction Process**
 
- Materials: 
+  Materials: 
  
 * Insulated box for incubator structure 
 * Wood for egg turner bars and platform 
