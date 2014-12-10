@@ -7,6 +7,8 @@
 ![Code](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code1.png)
 
 ![Code2](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code2.png)
+
+![Code3] (https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code3.png)
   
   c) Manufacturing Process
   
