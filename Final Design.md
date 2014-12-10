@@ -1,8 +1,9 @@
-6. Final Design
-7. 
-  a) Design
+<b>6. Final Design</b>
 
-  b) Pictures
+<ul>
+
+<li>Our Project</li>
+For our project we developed an egg incubator. The eggs sit inbetween wooden rods and the entire component is pushed and pulled by the motor 4 inches each direction.
   
 ![Code](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code1.png)
 
