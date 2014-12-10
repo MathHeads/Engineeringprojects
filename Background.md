@@ -4,11 +4,14 @@ Engineeringprojects
  
 <ul>
 Client: Andrew Houssney
- <li>Owns Jacob Springs Farm
- <li>Needs an efficiet incubator to hatch chicken eggs (100-300 eggs at a time)</li>
- <li>Wants to be notified of the temperature and humidity of the incubator through an app or remote</li>
- <li>Wants to be able to turn on/off the heat lamp in the incubator using his phone or a remote</li>
- <li>Wants to have an automated system so he doesn't need to check incubator every day.</li>
+ <li>Owns Jacob Springs Farm: Diversified, Organic Farm
+ 
+Concept: Hatchery 5000
+ <li>Incubator to hatch chicken eggs
+ <li>Holds between 100 and 300 eggs
+ <li>Notification system of the temperature and humidity</li>
+ <li>Turn the heat lamp on/off in the incubator using his phone or a remote</li>
+ <li>Automated system, no need to check every day</li>
  
  </ul>
 
@@ -16,10 +19,9 @@ Client: Andrew Houssney
 
 <ul>
  
- <li>The final product will be an egg incubator that holds 100-300 eggs at a time</li>
- <li>Will maintain temperature of 99.5-101.5 degrees fahrenheit depending on the type of incubator we build</li>
- <li>Will maintain a 40-50% humidity </li>
- <li>Will turn eggs 3-5 times a day for the first 18 days of incubation</li>
+ <li>Maintain temperature between 95 and 105 degrees Fahrenheit</li>
+ <li>Maintain a 40-50% humidity </li>
+ <li>Turn eggs 3-5 times a day for 18 out of the 21 days of incubation</li>
  <li>Will NOT turn eggs on last three days</li>
  <li>Arudino will be able to communicate wirelessly with an app on farmer's phone</li>
  <li>Farmer will be able to see and control temperature and humidiity by remote or phone app</li>
@@ -30,10 +32,11 @@ Client: Andrew Houssney
  
 <ul>
 
- <li>We were deciding between fixing the incubation issue, freezer and fridge issue, and greenhouse issue</li>
- <li>Might use a phone app or a remote for communication/notification</li>
- <li>Many things we can make the chamber out of: styrofoam, metal, wood, etc.</li>
- <li>Many ways to turn eggs inside the chamber: Automation, notify farmer, roll eggs with mechanism, etc.</li>
+
+ <li>Many things to work on at his farm: chicken hatchery, freezer and fridge controls, and greenhouse regulation, chicken coop door, or irrigation</li>
+ <li>Different ways to notify farmer: phone app or a remote</li>
+ <li>Material of structure: styrofoam, metal, wood, etc.</li>
+ <li>How to turn eggs: Automation, notify farmer, roll eggs with mechanism, etc.</li>
  
  </ul>
 
