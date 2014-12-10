@@ -39,8 +39,13 @@ For our project we developed an egg incubator. The eggs sit inbetween wooden rod
 <li>Sides have small ventilation holes at the bottom
 <li>Top: Two seperate pieces, Heat lamp bolted on</li>
 
+</ul>
+
+<ul>
 
 <b>Electrical</b>
 <li>Arduino controlled system: controls egg turner and heat lamp
 <li>Heat Lamp: turns on below 95 degrees and turns off above 105 degrees Fahrenheit
 <li>Motor: turns off after 18 days</li>
+
+</ul>
