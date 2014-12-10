@@ -3,9 +3,8 @@ Engineeringprojects
 <b>2. Background/client information</b>
  
 <ul>
-
- <li>Andrew Houssney</li>
- <li>Owns Jacob Springs Farm</li>
+Client: Andrew Houssney
+ <li>Owns Jacob Springs Farm
  <li>Needs an efficiet incubator to hatch chicken eggs (100-300 eggs at a time)</li>
  <li>Wants to be notified of the temperature and humidity of the incubator through an app or remote</li>
  <li>Wants to be able to turn on/off the heat lamp in the incubator using his phone or a remote</li>
