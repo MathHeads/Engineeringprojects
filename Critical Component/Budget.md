@@ -16,6 +16,9 @@
 <li>Wire: $3.00</li>
 <li>Wooden rods for turner: $5.00</li>
 <li>Motor: $20.00</li>
-<li><b>Total: $136.38</b></li>
+<li>Poster: $32.00
+<li>Bubblewrap: $6.00
+<li>Chicken wire: $4.00
+<li><b>Total: $178.38</b></li>
 
 </ul>
