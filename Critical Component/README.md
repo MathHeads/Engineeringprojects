@@ -6,4 +6,5 @@ There was no code necessary for this motor.
 We made two arms connected to the motor. The two arms connected makes a movement with the trner that pulls the eggs back and forth.
 The wooden structure that the motor pulls provides room for 70 eggs. 
 
+! (https://github.com/MathHeads/Engineeringprojects/blob/master/Screen%20Shot%202014-12-08%20at%201.36.52%20PM.png)
 
