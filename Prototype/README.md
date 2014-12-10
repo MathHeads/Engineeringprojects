@@ -53,7 +53,7 @@ Ellie
 
 <ul>
 <li>build bigger platforms with more bars to push the eggs</li>
-<li>Nikki set up the servo to the bars in order for them to move</li>
+<li>set up the servo to the bars in order for them to move</li>
 <li>the servo spins 180 degrees, and then back</li>
 <li>This pushes the bars back and forth in order for the eggs to turn</li>
 <li>In our prototype, the bars only move about 3/4 inches, but for our final we will have a bigger attachment to the servo in order so that the bars will move 2-3 inches</li>
