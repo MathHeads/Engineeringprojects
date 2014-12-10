@@ -22,5 +22,9 @@ For our project we developed an egg incubator. The eggs sit inbetween wooden rod
 
 ![Motor] (https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/motor.png)
 
+<b>Design</b>
+
+![Solidworks] (https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/solidworks%20drawing.png)
+
   
 <li>c)Manufacturing Process</li>
