@@ -5,8 +5,11 @@ Engineeringprojects
 <ul>
 Client: Andrew Houssney
  <li>Owns Jacob Springs Farm: Diversified, Organic Farm</li>
- 
- 
+
+</ul>
+
+<ul>
+
 Concept: Hatchery 5000
  <li>Incubator to hatch chicken eggs
  <li>Holds between 100 and 300 eggs
