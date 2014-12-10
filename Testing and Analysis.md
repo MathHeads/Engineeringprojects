@@ -1,8 +1,8 @@
 <b>7. Testing and Analysis</b>
 
-<ul>
-
 <b>a) Critical Parts</b>
+
+<ul>
 
 <li>Egg turner: box with wooden rodes accross
 <li>Eggs fit between the rodes
