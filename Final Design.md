@@ -13,5 +13,8 @@ For our project we developed an egg incubator. The eggs sit inbetween wooden rod
 ![Code2](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code2.png)
 
 ![Code3] (https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code3.png)
+
+<b>Final Project</b>
+! [Final Project](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/final%20product.png)
   
 <li>c)Manufacturing Process</li>
