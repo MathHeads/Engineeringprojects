@@ -4,7 +4,7 @@
 
   b) Pictures
   
-![Code](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/Screen%20Shot%202014-12-08%20at%202.43.37%20PM.png)
+![Code](https://github.com/MathHeads/Engineeringprojects/blob/master/pictures/code1.png)
   
   c) Manufacturing Process
   
