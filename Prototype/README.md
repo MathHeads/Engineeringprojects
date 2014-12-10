@@ -37,9 +37,9 @@ Nikki
 
 </ul>
 
-<ul>
-
 <b>Egg turning</b>
+
+<ul>
 
 Ellie
 <li>built two platforms for eggs to lay</li>
