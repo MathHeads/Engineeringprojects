@@ -44,7 +44,14 @@ Nikki
 Ellie
 <li>built two platforms for eggs to lay</li>
 <li>built bars that hook up to the servo that push the eggs in order for them to turn</li>
-She built them according to average egg size. We expect to build bigger platforms with more bars to push the eggs for the final. Nikki set up the servo to the bars in order for them to move. The servo spins 180 degrees, and then back. This pushes the bars back and forth in order for the eggs to turn. In our prototype, the bars only move about 3/4 inches, but for our final we will have a bigger attachment to the servo in order so that the bars will move 2-3 inches. The bars must move 2-3 inches so that the egg will turn at lest 45 degrees each time the servo turns on.</li>
+<li>according to average egg size</li>
+
+</ul>
+
+<ul>
+
+<b>Future</b>
+We expect to build bigger platforms with more bars to push the eggs for the final. Nikki set up the servo to the bars in order for them to move. The servo spins 180 degrees, and then back. This pushes the bars back and forth in order for the eggs to turn. In our prototype, the bars only move about 3/4 inches, but for our final we will have a bigger attachment to the servo in order so that the bars will move 2-3 inches. The bars must move 2-3 inches so that the egg will turn at lest 45 degrees each time the servo turns on.
 <li>Critical component is the egg turner connected to the servo</li>
 
 </ul>
