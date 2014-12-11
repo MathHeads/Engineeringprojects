@@ -3,7 +3,7 @@
 <ul>
 
 <li><b> The objective of this project was to create an egg incubator for a local farmer that holds around 100 eggs.</b></li>
-<b> The requirements for the egg turner were:</b>
+<li><b> The requirements for the egg turner were:</b></li>
 <li> It must hold around 100 eggs</li>
 <li> It must turn the eggs for 18 days</li>
 <li> It must keep a constant temperature at 100 degrees Fahrenheit<li/>
